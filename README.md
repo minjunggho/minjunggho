@@ -49,7 +49,7 @@ I love building things that live at the intersection of **hardware and software*
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000?style=flat-square&logo=wix&logoColor=white)
+![Wix Studio](https://img.shields.io/badge/Wix_Studio-000?style=flat-square&logo=wix&logoColor=white)
 
 ---
 
