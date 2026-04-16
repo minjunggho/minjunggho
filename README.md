@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chira 👋
+# Hi, I'm Min! 👋
 ### CS Student · Builder · Creative Technologist
 
 *Berkeley City College → University of California Transfer Track*
@@ -14,6 +14,8 @@
 ---
 
 ## 🧑‍💻 About Me
+
+Hi, I'm Chira Sukumarnpiti, but you can call me Min.
 
 I'm a Computer Science student at **Berkeley City College** on the UC transfer track, with a background in electronics and embedded systems from **Thai-German Pre-Engineering School** in Bangkok.
 
@@ -35,13 +37,12 @@ I love building things that live at the intersection of **hardware and software*
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Scheme](https://img.shields.io/badge/Scheme-9B59B6?style=flat-square&logoColor=white)
 
 **Hardware & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 **Tools & Platforms**
 
